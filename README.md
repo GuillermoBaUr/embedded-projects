@@ -23,7 +23,7 @@ The system implements a Whack‑A‑Mole game using:
 
 This project demonstrates firmware structure, RTOS usage, modular task design, and hardware interaction under time constraints.
 
-Repository: (add your project link here)
+Repository: [Link](https://github.com/GuillermoBaUr/whackamole-rtos)
 
 ![3-hour project](Img%20project/3-hour%20project.jpeg)
 
