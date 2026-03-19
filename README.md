@@ -25,6 +25,8 @@ This project demonstrates firmware structure, RTOS usage, modular task design, a
 
 Repository: (add your project link here)
 
+![3-hour project](Img%20project/3-hour%20project.jpeg)
+
 ## 2. Additional Project — Metroliner III Pedestal Simulation (Touch Display Framework)
 
 A touchscreen‑based simulation of the Metroliner III aircraft pedestal, built using a multithreaded, event‑driven architecture in Python.
@@ -37,17 +39,21 @@ Features include:
 
  Repository: [Link](https://github.com/GuillermoBaUr/Metroliner-III-Pedestal-Display)
 
+ ![Pedestal](Img%20project/Pedestal.png)
+
 ## 3. Additional Project — CRJ‑200 Autopilot Panel Firmware (STM32, C)
 
 Firmware written in C for an STM32F411RE microcontroller to control the CRJ‑200 autopilot panel within X‑Plane 11.
 Includes:
 
--UART‑based communication interface
--Interrupt‑driven input handling
--A dynamic linked‑list queue system using pointers
--Peripheral initialization and real‑time event management
+- UART‑based communication interface
+- Interrupt‑driven input handling
+- A dynamic linked‑list queue system using pointers
+- Peripheral initialization and real‑time event management
 
 Repository: [Link](https://github.com/GuillermoBaUr/CRJ-200_Autopilot_Panel_STM32)
+
+![CRJ-200](Img%20project/CRJ-200.jpg)
 
 ## How to Use This Repository
 
