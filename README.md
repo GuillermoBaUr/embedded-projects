@@ -62,9 +62,9 @@ Repository: [Link](https://github.com/GuillermoBaUr/CRJ-200_Autopilot_Panel_STM3
 - The other two projects serve as additional supporting examples of relevant work
 
 
-📬 Contact
+## 📬 Contact
 If you have any questions:
 📧 badillouribeguillermoca@gmail.com
 
-📄 License
+## 📄 License
 This repository is licensed under the MIT License.
